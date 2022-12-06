@@ -106,7 +106,8 @@ analytics:
 author:
   name             : "이정훈"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "울산 /" #"I am an **amazing** person."
+  bio              : "울산 출신
+                      신길동 거주" #"I am an **amazing** person."
   location         : "Somewhere"
   email            :
   links:
