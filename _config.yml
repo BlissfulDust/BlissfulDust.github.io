@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "행복한 우주먼지의 개발블로그 vO_<"
-title_separator          : "-123"
-subtitle                 : "겸손한 자세로 즐겁게 배우며 살자" # site tagline that appears below site title in masthead
+title                    : "행복한 먼지의 개발블로그"
+title_separator          : "-"
+subtitle                 : "\"겸손한 자세로 즐겁게 배우며 살자\"" # site tagline that appears below site title in masthead
 name                     : "이정훈입니다."
 description              : "웹개발 지식저장소 입니다./n항상 지식에 대해 배고픔을 느끼고 공부하는 공간입니다."
 url                      : "https://blissfuldust.github.io"
@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "이정훈"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "울산 /" #"I am an **amazing** person."
   location         : "Somewhere"
   email            :
   links:
@@ -127,7 +127,7 @@ author:
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      # url: "https://instagram.com/"
 
 # Site Footer
 footer:
