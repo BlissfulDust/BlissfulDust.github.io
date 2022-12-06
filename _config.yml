@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "이정훈"
   avatar           : "/assets/images/halis.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "갱상도 남자 1년 6개월 경력의 개발자 입니다." #"I am an **amazing** person."
+  bio              : "1년 6개월 경력의 개발자 <br>울산 출신 상남자 <br>" #"I am an **amazing** person."
   location         : "신길동"
   email            :
   links:
