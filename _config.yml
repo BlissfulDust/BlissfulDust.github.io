@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "이정훈"
   avatar           : "/assets/images/halis.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "경력 : 1년 6개월<br>출신 : 울산 상남자<br>스킬 : Spring, JAVA, Restful API Javascript, JQuery, JSP, Oracle, Tibero, MySQL, Linux" #"I am an **amazing** person."
+  bio              : "경력 : 1년 6개월<br>출신 : 울산 상남자<br>스킬 : Spring, JAVA, Restful API, Javascript, JQuery, JSP, Oracle, Tibero, MySQL, Linux" #"I am an **amazing** person."
   location         : "신길동"
   email            : "jhlee@interscope.co.kr"
   links:
