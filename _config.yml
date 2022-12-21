@@ -19,7 +19,7 @@ locale                   : "ko_KR"
 title                    : "행복한 먼지의 개발블로그"
 title_separator          : "-"
 subtitle                 : "\"겸손한 자세로 즐겁게 배우며 살자\"" # site tagline that appears below site title in masthead
-name                     : "이정훈입니다."
+name                     : ""
 description              : "웹개발 지식저장소 입니다./n항상 지식에 대해 배고픔을 느끼고 공부하는 공간입니다."
 url                      : "https://blissfuldust.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
